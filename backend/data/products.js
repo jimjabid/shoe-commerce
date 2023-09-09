@@ -1,0 +1,73 @@
+const products = [
+  {
+    name: "Nemeziz 19.4",
+    image:
+      "https://assets.adidas.com/images/w_600,f_auto,q_auto/75987ad2e31644d59d24ab3000fce766_9366/Botines_Nemeziz_19.4_Pasto_Sintetico_Verde_FV3317_41_detail.jpg",
+    description: "Breve descripcion de los zapatos",
+    brand: "Adidas",
+    category: "Zapatos",
+    price: 89.99,
+    countInStock: 10,
+    rating: 4.5,
+    numReviews: 14,
+  },
+  {
+    name: "Adidas Ace",
+    image:
+      "https://www.localesbambaci.com.ar/cdn/shop/products/Botines_de_futbol_para_suelo_firme_ACE_16.4_Blanco_S42146_01_standard_d6b04ae5-843e-484f-b907-ba589e440c93_1024x1024.jpg?v=1625003048",
+    description: "Breve descripcion de los zapatos",
+    brand: "Adidas",
+    category: "Zapatos",
+    price: 89.99,
+    countInStock: 10,
+    rating: 4.5,
+    numReviews: 15,
+  },
+  {
+    name: "Predator Tango",
+    image:
+      "https://www.prodirectsoccer.com/ProductImages/Main/195826_Main_Thumb_0464995.jpg",
+    description: "Breve descripcion de los zapatos",
+    brand: "Adidas",
+    category: "Zapatos",
+    price: 89.99,
+    countInStock: 10,
+    rating: 5,
+    numReviews: 23,
+  },
+  {
+    name: "Adidas Classic",
+    image: "https://m.media-amazon.com/images/I/71DFsBviEuL._UL1500_.jpg",
+    description: "Breve descripcion de la Gorra",
+    brand: "Adidas",
+    category: "Zapatos",
+    price: 89.99,
+    countInStock: 10,
+    rating: 3,
+    numReviews: 15,
+  },
+  {
+    name: "Questeron W",
+    image:
+      "https://m.media-amazon.com/images/I/71N1euNKNVL._AC_UY1000_FMwebp_.jpg",
+    description: "Breve descripcion de la gorra",
+    brand: "Adidas",
+    category: "Zapatos",
+    price: 89.99,
+    countInStock: 10,
+    rating: 4,
+    numReviews: 12,
+  },
+  {
+    name: "Adidas Mens Fluidglow M Sneaker",
+    image: "https://m.media-amazon.com/images/I/71cFwyj2EJL._UL1500_.jpg",
+    description: "Breve descripcion de los zapatos",
+    brand: "Adidas",
+    category: "Zapatos",
+    price: 89.99,
+    countInStock: 10,
+    rating: 4.5,
+    numReviews: 24,
+  },
+];
+export default products;
