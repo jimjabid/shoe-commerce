@@ -1,6 +1,6 @@
 # Shoe Commerce
 
-![Shoe Commerce](./frontend/public/img/readme-shoe-commerce.png)
+![Shoe Commerce](./frontend/public/images/readme-shoe-commerce.png)
 
 A full-stack e-commerce platform for selling shoes, featuring a range of functionalities built with React, Node.js, Express, and MongoDB.
 
